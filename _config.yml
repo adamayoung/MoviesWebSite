@@ -23,7 +23,7 @@ description: Discover new Movies and TV Shows
 author: Adam Young
 email: movies@adam-young.co.uk
 app_store_link:
-google_tracking_id:
+google_tracking_id: UA-159540958-1
 
 sass:
   style: compressed
