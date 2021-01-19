@@ -1,5 +1,25 @@
-# Adam's Web Site
+# Movies and TV Shows Web Site
 
-My personal web site.
+Movies and TV Shows Web Site
 
-[https://adam-young.co.uk]([Adam](https://adam-young.co.uk))
+[https://movies.adam-young.co.uk]([Movies and TV Shows](https://movies.adam-young.co.uk))
+
+## Development
+
+### Install gems
+
+```bash
+bundle install
+```
+
+### Update gems
+
+```bash
+bundle update
+```
+
+### Serve site
+
+```bash
+bundle exec jekyll serve
+```
