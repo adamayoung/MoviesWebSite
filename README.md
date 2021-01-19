@@ -2,7 +2,7 @@
 
 Movies and TV Shows Web Site
 
-[https://movies.adam-young.co.uk]([Movies and TV Shows](https://movies.adam-young.co.uk))
+[https://movies.adam-young.co.uk](https://movies.adam-young.co.uk)
 
 ## Development
 
